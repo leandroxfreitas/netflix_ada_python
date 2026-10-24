@@ -25,4 +25,4 @@ Este projeto faz parte do meu portfólio de Ciência de Dados. O objetivo foi re
 Se você quiser rodar esta análise na sua máquina:
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/leandroxfreitas/netflix_ada_python](https://github.com/leandroxfreitas/netflix_ada_python)
+   git clone [https://github.com/leandroxfreitas/netflix_eda_python](https://github.com/leandroxfreitas/netflix_eda_python)
